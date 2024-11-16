@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python & C related projects.
 - 📫 How to reach me: camdev@mail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: AI is mostly evolved around Python! Specifically the torch library.
+- ⚡ Fun fact: AI is mostly evolved around Python! Specifically the torch library. Open-cv is also cool.
 
 <!---
 CamDevv/CamDevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
