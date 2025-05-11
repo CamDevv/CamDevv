@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and C.
 - 🌱 I’m currently learning more Python and C.
 - 💞️ I’m looking to collaborate on Python & C related projects.
-- 📫 How to reach me: camdev@mail.com
+- 📫 How to reach me: cv2@cv2.im
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: AI is mostly evolved around Python! Specifically the torch library. Open-cv is also cool.
 
